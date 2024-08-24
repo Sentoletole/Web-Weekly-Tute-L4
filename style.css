@@ -4,3 +4,8 @@ body{
     margin: 0;
     padding: 0;
 }
+#school{
+    padding: 10px;
+    background: linear-gradient(to right, rgba(9, 79, 9, 0.592), rgba(98, 79, 49, 0.7));
+    margin: auto;
+}
