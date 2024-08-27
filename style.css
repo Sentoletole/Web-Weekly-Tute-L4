@@ -37,21 +37,20 @@ a:hover {
     color: rgb(51, 15, 48);
 }
 
-.sese img{
-    max-width: 35%;
-}
-
-.me img{
-    position: relative;
-    max-width: 35%;
-}
-
-.images_home{
+.images_home {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1px;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns of equal width */
+    gap: 20px; /* Adjust this value to control space between images */
+    padding: 0; /* Remove padding if not needed */
+    max-width: 80%;
+    margin: auto; /* Center the grid horizontally */
 }
 
+.sese img,
+.me img {
+    width:80%; /* Ensure images fill their grid cells */
+    height: auto; /* Maintain aspect ratio */
+}
 
 footer {
     margin-top: 20px;
