@@ -1,23 +1,42 @@
-body{
+body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgba(97, 152, 96, 0.426);
-    margin-top: 10px;
-    padding: 0;
+    background-color: rgba(125, 138, 192, 0.426);
+    margin: 0;
+    padding: 20px;
     text-align: center;
 }
 
-#school{
-    padding: 10px;
-    background: linear-gradient(to right, rgba(9, 79, 9, 0.592), rgba(98, 79, 49, 0.7));
-    margin: auto;
+header {
+    margin-bottom: 20px;
 }
 
-#hobbies{
-    padding: 10px;
-    background: linear-gradient(to right, rgba(173, 90, 176, 0.592), rgba(155, 64, 99, 0.7));
+main {
     margin: auto;
+    max-width: 800px;
 }
 
-header{
-    margin-top: 90px;
+section {
+    background: linear-gradient(to right, rgba(217, 97, 211, 0.447), rgba(68, 40, 146, 0.496));
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 0.9em;
 }
