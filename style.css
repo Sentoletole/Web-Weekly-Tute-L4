@@ -40,8 +40,14 @@ a:hover {
 .sese img{
     position: relative;
     max-width: 25%;
-
 }
+
+.me img{
+    position: relative;
+    max-width: 25%;
+}
+
+
 
 footer {
     margin-top: 20px;
