@@ -38,15 +38,19 @@ a:hover {
 }
 
 .sese img{
-    position: relative;
-    max-width: 25%;
+    max-width: 35%;
 }
 
 .me img{
     position: relative;
-    max-width: 25%;
+    max-width: 35%;
 }
 
+.images_home{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1px;
+}
 
 
 footer {
