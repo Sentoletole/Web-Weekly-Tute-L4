@@ -37,6 +37,12 @@ a:hover {
     color: rgb(51, 15, 48);
 }
 
+.sese img{
+    position: relative;
+    max-width: 25%;
+
+}
+
 footer {
     margin-top: 20px;
     font-size: 0.9em;
