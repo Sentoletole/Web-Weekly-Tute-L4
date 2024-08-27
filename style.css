@@ -1,12 +1,11 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background-color:rgba(35, 87, 34, 0.426);
+    background-color: rgba(35, 87, 34, 0.426);
     margin-top: 10px;
     padding: 0;
-    align-content: center;
     text-align: center;
-    justify-content: center;
 }
+
 #school{
     padding: 10px;
     background: linear-gradient(to right, rgba(9, 79, 9, 0.592), rgba(98, 79, 49, 0.7));
@@ -15,6 +14,6 @@ body{
 
 #hobbies{
     padding: 10px;
-    background: linear-gradient(to right, rgba(9, 79, 9, 0.592), rgba(98, 79, 49, 0.7));
+    background: linear-gradient(to right, rgba(172, 176, 90, 0.592), rgba(98, 49, 68, 0.7));
     margin: auto;
 }
