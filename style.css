@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgba(125, 138, 192, 0.426);
+    background-color: rgba(134, 149, 208, 0.426);
     margin: 0;
     padding: 20px;
     text-align: center;
@@ -16,7 +16,7 @@ main {
 }
 
 section {
-    background: linear-gradient(to right, rgba(217, 97, 211, 0.447), rgba(68, 40, 146, 0.496));
+    background: linear-gradient(to right, rgba(223, 121, 218, 0.599), rgba(68, 40, 146, 0.496));
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 10px;
@@ -34,13 +34,13 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color: rgb(51, 15, 48);
+    color: rgb(120, 29, 113);
 }
 
 .images_home {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 5px;
+    gap: 3px;
     padding: 0;
     max-width: 80%;
     margin: auto;
@@ -55,6 +55,10 @@ a:hover {
     width: 80%;
     height: auto;
     display: block;
+}
+
+.me{
+    position: relative;
 }
 
 .overlay {
