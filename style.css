@@ -1,6 +1,6 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: rgba(134, 149, 208, 0.426);
+    background-color: rgba(131, 98, 147, 0.426);
     margin: 0;
     padding: 20px;
     text-align: center;
@@ -16,12 +16,12 @@ main {
     max-width: 800px;
     padding: 20px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    background-color: white;
+    background-color: rgba(146, 70, 160, 0.638);
     border-radius: 10px;
 }
 
 section {
-    background: linear-gradient(to right, rgba(223, 121, 218, 0.599), rgba(68, 40, 146, 0.496));
+    background: linear-gradient(to right, rgba(229, 104, 179, 0.599), rgba(89, 65, 157, 0.496));
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 10px;
