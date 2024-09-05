@@ -53,33 +53,16 @@ a:hover {
     gap: 20px; /* Increased gap for more spacing */
     max-width: 50%;
     margin: 20px auto;
+    align-content: center;
 }
 
-.imagzes_gallery {
+.sese_gallery{
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 30px; /* Increased gap for more spacing */
-    margin-top: 30px;
-    max-width: 70%;
-}
-
-.image-container {
-    position: relative;
-    width: 70%;
-    border-radius: 10px;
-    overflow: hidden;
-}
-
-.image-container img {
-    width: 100%;
-    height: auto;
-    display: block;
-    transition: transform 0.3s ease;
-    border-radius: 10px;
-}
-
-.image-container:hover img {
-    transform: scale(1.05);
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px; /* Increased gap for more spacing */
+    max-width: 50%;
+    margin: 20px auto;
+    align-content: center;
 }
 
 .me {
