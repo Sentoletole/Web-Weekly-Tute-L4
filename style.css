@@ -55,7 +55,7 @@ a:hover {
     margin: 20px auto;
 }
 
-.images_gallery {
+.imagzes_gallery {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 30px; /* Increased gap for more spacing */
