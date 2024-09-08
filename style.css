@@ -20,8 +20,8 @@ main {
     border-radius: 10px;
 }
 
-section {
-    background: linear-gradient(to right, rgba(229, 104, 179, 0.599), rgba(89, 65, 157, 0.496));
+section{
+    background: linear-gradient(to right, rgba(235, 92, 178, 0.599), rgba(89, 65, 157, 0.496));
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 10px;
